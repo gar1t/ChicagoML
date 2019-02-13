@@ -1,0 +1,21 @@
+title: ChicagoML
+baseurl: '/'
+url: 'https://devml.io'
+permalink: pretty
+exclude:
+  - artwork
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - LICENSE*.txt
+  - lib/
+  - README.md
+  - contributors.md
+search_enabled: true
+aux_links:
+  'ChicagoML on GitHub':
+    - 'https://github.com/gar1t/ChicagoML'
+  'Slack channel':
+    - 'https://bit.ly/2S0zFAP'
