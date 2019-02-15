@@ -103,6 +103,10 @@
 
   &.nav-open {
     display: block;
+
+    a {
+      color: $white;
+    }
   }
   @include mq(md) {
     display: block;
