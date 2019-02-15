@@ -50,8 +50,10 @@ $red-100: #f96e65 !default;
 $red-200: #e94c4c !default;
 $red-300: #dd2e2e !default;
 
+$accent-color: #1e276c;
+$accent-color-lighter: lighten($accent-color, 10%);
 $body-background-color: $white !default;
-$sidebar-color: #1e276c !default;
+$sidebar-color: $accent-color;
 $main-content-border-color: #bbb;
 $site-title-border-color: $grey-lt-100;
 $code-background-color: $grey-lt-000 !default;
@@ -61,8 +63,10 @@ $body-heading-color: $grey-dk-300 !default;
 $nav-link-color: #ddd !default;
 $nav-child-link-color: #ddd !default;
 $nav-link-padding: 5px;
-$link-color: $purple-000 !default;
-$btn-primary-color: $purple-100 !default;
+$link-color: $accent-color-lighter !default;
+$btn-primary-color: $accent-color-lighter !default;
+$btn-secondary-color: $green-200 !default;
+$btn-default-color: $grey-lt-300 !default;
 $base-button-color: #f7f7f7 !default;
 
 //

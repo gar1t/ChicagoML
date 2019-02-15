@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Outline
-permalink: /outline/
+parent: devML
 nav_order: 2
 ---
 

@@ -105,6 +105,14 @@
   @include btn-color($white, $btn-primary-color);
 }
 
+.btn-secondary {
+  @include btn-color($white, $btn-secondary-color);
+}
+
+.btn-default {
+  @include btn-color($link-color, $btn-default-color);
+}
+
 .btn-purple {
   @include btn-color($white, $purple-100);
 }

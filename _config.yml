@@ -1,6 +1,6 @@
 title: ChicagoML
 baseurl: '/'
-url: 'https://devml.io'
+url: 'https://chicago.ml'
 permalink: pretty
 exclude:
   - artwork
@@ -15,7 +15,7 @@ exclude:
   - contributors.md
 search_enabled: true
 aux_links:
-  'ChicagoML on GitHub':
-    - 'https://github.com/gar1t/ChicagoML'
   'Slack channel':
     - 'https://bit.ly/2S0zFAP'
+  'On GitHub':
+    - 'https://github.com/gar1t/ChicagoML'

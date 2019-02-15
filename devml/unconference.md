@@ -1,21 +1,21 @@
 ---
 layout: default
-title: Unconference
-permalink: /unconference/
+title: Unconference Format
+parent: devML
 nav_order: 3
 ---
 
-# Unconference format
+# Unconference Format
 
 ![](/assets/images/unconference.jpg)
 
-ChicagoML uses the
+devML may use the
 [unconference](https://en.wikipedia.org/wiki/Unconference) format for
-its half day and full day events. An unconference provides just enough
-structure for participants to work collaboratively in the planning and
-running of an event.
+its workshops. An unconference provides just enough structure for
+participants to work collaboratively in the planning and running of an
+event.
 
-A ChicagoML unconference is characterized by:
+A devML unconference is characterized by:
 
 - Spirit of openness and flexibility that supports direction
   contributions and all participants
@@ -34,7 +34,7 @@ The last point simply means that we prefer to keep presentations
 shorter so that we can spend more time time in break-out sessions
 working on specific problems. This is a tendency rather than a rule.
 
-While self-organized, ChicagoML unconferences draw from patterns that have
+While self-organized, devML unconferences draw from patterns that have
 worked well in similar events:
 
 - Provide one or more dedicated periods for [lightning
@@ -50,5 +50,5 @@ We expect collaboration and ongoing work effort after the unconference. [^licens
 
 [^license]:
     Unless otherwise agreed upon, all work product conducted under the
-    auspices of ChicagoML is governed by our [contribution
+    auspices of devML is governed by our [contribution
     policy](/contributing/).
