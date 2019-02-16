@@ -122,6 +122,10 @@
   }
 }
 
+.navigation-list-toggle.btn {
+  padding: 4px 1em 3px;
+}
+
 // Breadcrumb nav
 .breadcrumb-nav {
   @include mq(md) {

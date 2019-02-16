@@ -15,7 +15,9 @@ exclude:
   - contributors.md
 search_enabled: true
 aux_links:
-  'Slack channel':
-    - 'https://bit.ly/2S0zFAP'
-  'On GitHub':
-    - 'https://github.com/gar1t/ChicagoML'
+  - name: GitHub
+    url: 'https://github.com/gar1t/ChicagoML'
+    icon_class: 'fab fa-github'
+  - name: Slack
+    url: https://bit.ly/2S0zFAP
+    icon_class: 'fab fa-slack-hash'
