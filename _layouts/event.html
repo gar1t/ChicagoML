@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<h1 class="event-title">{{ page.title }}</h1>
+
+<p>
+  {{ page.date | date:"%A, %B %d, %Y" }} -
+  {{ page.time }} -
+  {{ page.host }}
+</p>
+
+{% for label in page.badges %}
+<p class="label label-{{ site.badge_colors[forloop.index0] }}">{{ label }}</p>
+{% endfor %}
+
+{{ content }}

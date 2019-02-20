@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Outline
-parent: devML
+parent: devML Workshop
 nav_order: 2
 ---
 

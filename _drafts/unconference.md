@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Unconference Format
-parent: devML
+title: Unconference
+parent: devML Workshop
 nav_order: 3
 ---
 
-# Unconference Format
+# Unconference
 
 ![](/assets/images/unconference.jpg)
 

@@ -14,6 +14,14 @@ exclude:
   - README.md
   - contributors.md
 search_enabled: true
+future: true
+excerpt_separator: <!--more-->
+badge_colors:
+  - green
+  - yellow
+  - blue
+  - red
+  - purple
 aux_links:
   - name: GitHub
     url: 'https://github.com/gar1t/ChicagoML'
