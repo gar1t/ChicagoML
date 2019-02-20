@@ -41,6 +41,10 @@ race, religion, or sexual identity and orientation.
 
 {{ post.excerpt }}
 
+
+<a href="{{ post.registration_url }}" class="btn btn-secondary py-2 px-4 mx-1">Register for this event <i class="fas fa-calendar-plus ml-1"></i></a>
+<a href="{{ post.url }}" class="btn btn-default py-2 px-4 mx-1">Event details <i class="fas fa-info-circle ml-1"></i></a>
+
 ---
 
 {% endfor %}
