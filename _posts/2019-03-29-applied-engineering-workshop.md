@@ -1,6 +1,5 @@
 ---
 layout: event
-parent: Events
 title: Applied Engineering Workshop
 time: 1:00 PM to 5:00 PM
 host: HERE Technologies
@@ -35,7 +34,7 @@ If you would like to participate in the workshop as a presenter,
 
 ## What you can expect
 
-![](/assets/images/collaborate.jpg)
+![](/assets/images/collaborate-NON-FREE-123RF.jpg)
 
 The workshop covers essential topics in machine learning that you can
 apply to your work as a machine learning engineer or

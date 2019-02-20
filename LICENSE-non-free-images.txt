@@ -1,0 +1,11 @@
+Images that contain `NON-FREE` in their names used in this project fall
+under specific license agreements, which are listed below according to
+the applicable non-free sources.
+
+Sources are identified using the pattern `NON-FREE` + SOURCE, where
+SOURCE is one of of the sources below. Each source is listed with the
+applicable license terms for associated images.
+
+| Source    | License                           |
+| --------- | --------------------------------- |
+| 123RF     | https://www.123rf.com/license.php |
