@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Applied Engineering Workshop
+title: Applied ML Engineering Workshop
 time: 1:00 PM to 5:00 PM
 host: HERE Technologies
 tags: event
