@@ -32,7 +32,7 @@ If you would like to participate in the workshop as a presenter,
 
 <!--more-->
 
-## What you can expect
+## What to expect
 
 ![](/assets/images/collaborate-NON-FREE-123RF.jpg)
 
