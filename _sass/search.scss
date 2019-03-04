@@ -69,15 +69,7 @@
     }
   }
 
-  @include fs-5;
-
-  @include mq(sm) {
-    @include fs-3;
-  }
-
-  @include mq(md) {
-    @include fs-2;
-  }
+  @include fs-3;
 }
 
 .search-icon {
