@@ -61,12 +61,12 @@ panel discussion with audience participation through Q&A.
 
 ## Presenting
 
-| Name                    | Organization      | Title                  |
-|-------------------------|-------------------|------------------------|
-| Michelangelo D'Agostino | ShopRunner        |                        |
-| Ilya Barshai            | Data Cowboys      | Data Scientist         |
-| Xiang Ma                | HERE Technologies | Manager of Engineering |
-| Garrett Smith           | Guild AI          | Engineer               |
+| Name                    | Organization      | Title                           |
+|-------------------------|-------------------|---------------------------------|
+| Michelangelo D'Agostino | ShopRunner        | Senior Director of Data Science |
+| Ilya Barshai            | Data Cowboys      | Data Scientist                  |
+| Xiang Ma                | HERE Technologies | Manager of Engineering          |
+| Garrett Smith           | Guild AI          | Engineer                        |
 
 If you would like to contribute to this workshop as a presenter,
 please contact Garrett Smith &lt;g@rre.tt&gt; via email.
