@@ -45,16 +45,15 @@ outstanding professional and social connections!
 
 ## Schedule
 
-| **Start** | **Stop** | **Session** |
-| 01:00 PM | 01:15 PM | Opening remarks |
-| 01:15 PM | 02:00 PM | Session 1: *Identifying and communicating value to stake holders* |
-| 02:00 PM | 02:10 PM | Break |
-| 02:10 PM | 03:55 PM | Session 2: *ML model selection and training strategies* |
-| 02:55 PM | 03:05 PM | Break |
-| 03:05 PM | 03:50 PM | Session 3: *Automation and reproducibility* |
-| 03:50 PM | 04:00 PM | Break |
-| 04:00 PM | 04:45 PM | Session 4: *Deployment and production* |
-| 04:45 PM | 05:00 PM | Closing remarks |
+| **Start** | **Stop** | **Duration** | **Session**                                                      |
+| 01:00 PM  | 01:15 PM | 15 min       | Opening remarks                                                  |
+| 01:15 PM  | 01:55 PM | 40 min       | Session 1: *Identifying and communicating value to stakeholders* |
+| 01:55 PM  | 02:35 PM | 40 min       | Session 2: *ML model selection and training strategies*          |
+| 02:35 PM  | 02:50 PM | 15 min       | Break                                                            |
+| 02:50 PM  | 03:30 PM | 40 min       | Session 3: *Automation and reproducibility*                      |
+| 03:30 PM  | 04:10 PM | 40 min       | Session 4: *Deployment and production*                           |
+| 04:10 PM  | 04:50 PM | 40 min       | Break-out working session                                        |
+| 04:50 PM  | 05:00 PM | 10 min       | Closing remarks                                                  |
 
 Each session consists of a series of short presentations followed by a
 panel discussion with audience participation through Q&A.
@@ -66,7 +65,13 @@ panel discussion with audience participation through Q&A.
 | Michelangelo D'Agostino | ShopRunner        | Senior Director of Data Science |
 | Ilya Barshai            | Data Cowboys      | Data Scientist                  |
 | Xiang Ma                | HERE Technologies | Manager of Engineering          |
-| Garrett Smith           | Guild AI          | Engineer                        |
+| Garrett Smith           | Guild AI          | ML Engineer                     |
 
-If you would like to contribute to this workshop as a presenter,
-please contact Garrett Smith &lt;g@rre.tt&gt; via email.
+## Credits
+
+- Thanks to HERE Technologies and Xiang Ma their amazing hospitality
+  in hosting the event!
+
+- Thanks to Rida Iqbal for help with audience participation and logistics!
+
+- Thanks to the panel members for their contributions!
