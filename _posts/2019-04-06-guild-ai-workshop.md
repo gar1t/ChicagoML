@@ -31,6 +31,8 @@ cover these topics:
 - Collaboration
 - Remote training
 
+<!--more-->
+
 This is a technical, hands-on workshop in ML model development. We
 encourage you to bring your projects along to work on directly. If you
 are new to machine learning, we will provide a sample project that you
