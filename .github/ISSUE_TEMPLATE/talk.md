@@ -2,7 +2,7 @@
 name: Talk
 about: Talk at a Chicago ML event
 title: 'Talk: [Talk Title Using Title Case]'
-labels: talk
+labels: Talk
 assignees: ''
 
 ---
