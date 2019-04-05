@@ -1,7 +1,7 @@
 ---
 name: Workshop
 about: Chicago ML or affiliate workshop
-title: 'Workshop: [Title Using Title Case]'
+title: 'Workshop: [Title Using Title Case] - [Month, Day, Year]'
 labels: workshop
 assignees: ''
 
