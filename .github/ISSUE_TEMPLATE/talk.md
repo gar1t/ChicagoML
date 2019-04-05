@@ -7,14 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Talk
-about: Talk or presentation at a Chicago ML event
-title: Talk: [Talk Title]
-labels: talk
-assignees: ''
----
-
 ## Description
 
 One to two paragraph description.
