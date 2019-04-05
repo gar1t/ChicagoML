@@ -28,7 +28,7 @@ race, religion, or sexual identity and orientation.
 
 <a href="https://www.meetup.com/Chicago-ML/" class="btn btn-primary py-2 px-4 mx-1 mt-2" title="View our upcoming events and register.">Visit us on Meetup <i class="fab fa-meetup fa-lg ml-1"></i></a>
 <a href="https://bit.ly/2S0zFAP" class="btn btn-default py-2 px-4 mx-1 mt-2" title="Ask questions, make friends.">Join us on Slack <i class="fab fa-slack-hash fa-lg ml-1"></i></a>
-<a href="https://bit.ly/2GQlWKS" class="btn btn-default py-2 px-4 mx-1 mt-2" title="Let us know what you'd like to see or present.">Request a topic <i class="far fa-lightbulb fa-lg ml-1"></i></a>
+<a href="https://bit.ly/2GQlWKS" class="btn btn-default py-2 px-4 mx-1 mt-2" title="Let us know what you'd like to see or present.">Propose a Talk <i class="far fa-lightbulb fa-lg ml-1"></i></a>
 
 ---
 
