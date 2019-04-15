@@ -2,6 +2,10 @@
 
 This is an in-progress overview of Chicago ML organizer efforts.
 
+Your name: ________________
+
+Your GitHub user name: _____________________
+
 ## Venues
 
 - Reach out to Chicago area business and schools
