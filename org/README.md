@@ -1,10 +1,16 @@
+---
+title: Organizer Support
+layout: default
+nav_order: 55
+---
+
 # Org Support
 
 This is an in-progress overview of Chicago ML organizer efforts.
 
-Your name: ________________
+## Meeting Notes
 
-Your GitHub user name: _____________________
+- [April 15, 2019](/org/NOTES-2019-04-15/)
 
 ## Venues
 
