@@ -13,6 +13,7 @@ exclude:
   - lib/
   - README.md
   - contributors.md
+  - YYYY-MM-DD-meetup-template.md
 search_enabled: true
 future: true
 excerpt_separator: <!--more-->
