@@ -9,12 +9,12 @@ nav_order: 999
 
 ## Our pledge
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our
-project and our community a harassment-free experience for everyone,
-regardless of age, body size, disability, ethnicity, gender identity
-and expression, level of experience, nationality, personal appearance,
-race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment,
+Chicago ML organizers pledge to make participation in our community a
+harassment-free experience for everyone, regardless of age, body size,
+disability, ethnicity, gender identity and expression, level of
+experience, nationality, personal appearance, race, religion, or
+sexual identity and orientation.
 
 ## Our standards
 
@@ -22,59 +22,61 @@ Examples of behavior that contributes to creating a positive
 environment include:
 
 - Using welcoming and inclusive language
-- Gracefully accepting constructive criticism
+- Respecting others&rsquo; personal space and physical boundaries
 - Being respectful of differing viewpoints and experiences
 - Focusing on what is best for the community
 - Showing empathy towards other community members
+- Gracefully accepting constructive criticism
 
-Examples of unacceptable behavior by participants include:
+Examples of unacceptable behavior include:
 
 - The use of sexualized language or imagery and unwelcome sexual
   attention or advances
+- Hostile, aggressive, or threatening language or behavior
 - Trolling, insulting/derogatory comments, and personal or political
   attacks
 - Public or private harassment
-- Publishing others' private information, such as a physical or
+- Publishing others&rsquo; private information, such as a physical or
   electronic address, without explicit permission
 - Other conduct which could reasonably be considered inappropriate in
   a professional setting
 
 ## Our responsibilities
 
-Project maintainers are responsible for clarifying the standards of
+Chicago ML organizers are responsible for clarifying the standards of
 acceptable behavior and are expected to take appropriate and fair
 corrective action in response to any instances of unacceptable
 behavior.
 
-Project maintainers have the right and responsibility to remove, edit,
-or reject comments, commits, code, wiki edits, issues, and other
-contributions that are not aligned to this Code of Conduct, or to ban
-temporarily or permanently any contributor for other behaviors that
-they deem inappropriate, threatening, offensive, or harmful.
+Organizers have the right and responsibility to ban temporarily or
+permanently any individual from Chicago ML events or projects for
+behaviors that violate this Code of Conduct.
 
 ## Scope
 
-This Code of Conduct applies both within project spaces and in public
-spaces when an individual is representing the project or its
-community. Examples of representing a project or community include
-using an official project e-mail address, posting via an official
-social media account, or acting as an appointed representative at an
-online or offline event. Representation of a project may be further
-defined and clarified by project maintainers.
+This Code of Conduct applies both within event and project spaces and
+in public spaces when an individual is representing Chicago ML or its
+community. Examples of representing Chicago ML or its community
+include attendance of Chicago ML sponsored or co-sponsored events,
+participation in Chicago ML organizational activities, and
+participation in Chicago ML online activities including but not
+limited to use of the Chicago ML Meetup message board, Slack workspace
+and GitHub repository.
 
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior
-may be reported by contacting the project team at g@rre.tt. The
-project team will review and investigate all complaints, and will
-respond in a way that it deems appropriate to the circumstances. The
-project team is obligated to maintain confidentiality with regard to
-the reporter of an incident. Further details of specific enforcement
-policies may be posted separately.
+may be reported by contacting [Chicago ML organizers][meetup-orgs]
+through Meetup or directly to Garrett Smith at g@rre.tt or
+312-231-3900. Organizers will review and investigate all complaints,
+and will respond in a way that they deem appropriate to the
+circumstances. Organizers are obligated to maintain confidentiality
+with regard to the reporter of an incident. Further details of
+specific enforcement policies may be posted separately.
 
-Project maintainers who do not follow or enforce the Code of Conduct
-in good faith may face temporary or permanent repercussions as
-determined by other members of the project's leadership.
+Individuals who do not follow this Code of Conduct in good faith may
+face temporary or permanent repercussions as determined by Chicago ML
+organizers.
 
 ## Attribution
 
@@ -84,3 +86,4 @@ Covenant][homepage], version 1.4, available at
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
+[meetup-orgs]: https://www.meetup.com/Chicago-ML/members/?op=leaders
