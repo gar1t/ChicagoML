@@ -28,7 +28,7 @@ aux_links:
     url: https://meetup.com/Chicago-ML
     icon_class: 'fab fa-meetup'
   - name: Slack
-    url: https://bit.ly/2S0zFAP
+    url: http://bit.ly/chicago-ml-slack
     icon_class: 'fab fa-slack-hash'
   - name: GitHub
     url: 'https://github.com/gar1t/ChicagoML'
