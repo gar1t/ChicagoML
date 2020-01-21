@@ -24,6 +24,8 @@ If you have an ML or data science project for school or work, you have
 the option of working on it during the workshop. Otherwise we have
 predefined exercises you can use.
 
+<!--more-->
+
 Agenda:
 
 - 10:00 - 10:45 - Introduction to ML engineering part 1
@@ -48,3 +50,7 @@ Requirements:
   software is configured correctly (this will be available two weeks
   before the workshop - you will receive an announcement when the
   checklist exercise is available)
+
+GitHub repository:
+
+https://github.com/gar1t/2020-02-15-ml-engineering-at-iit
